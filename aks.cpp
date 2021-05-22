@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <iostream>
-#include <glad/glad.h>
+#include "include/glad/glad.h"
 #include "deps/glad.c"
 #include "deps/linmath.h"
 #include <GLFW/glfw3.h>
